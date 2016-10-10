@@ -143,6 +143,6 @@
         android:layout_marginBottom="66dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:onClick="onSubmitRest"/>
+        android:onClick="onSubmitReset"/>
 </RelativeLayout>
 
